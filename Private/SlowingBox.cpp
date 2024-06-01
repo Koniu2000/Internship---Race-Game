@@ -1,4 +1,4 @@
-// Copyright 2023 Teyon. All Rights Reserved.
+
 
 #include "SlowingBox.h"
 #include "Components/BoxComponent.h"
